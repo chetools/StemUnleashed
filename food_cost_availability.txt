@@ -1,0 +1,10 @@
+                                 c     V
+  Cheeseburger                 1.84   4.0  
+  Ham Sandwich                 2.19   7.5  
+  Hamburger                    1.84   3.5  
+  Fish Sandwich                1.44   5.0  
+  Chicken Sandwich             2.29   7.3  
+  Fries                         .77   2.6  
+  Sausage Biscuit              1.29   4.1  
+  Lowfat Milk                   .60   8.0 
+  Orange Juice                  .72  12.0

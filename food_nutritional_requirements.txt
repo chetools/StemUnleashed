@@ -1,0 +1,8 @@
+        Nmin   Nmax
+Cal      2000      
+Carbo     350    375
+Protein    55      
+VitA      100      
+VitC      100      
+Calc      100      
+Iron      100      
